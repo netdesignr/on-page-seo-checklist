@@ -1,7 +1,7 @@
 ## On-page Search Engine Optimisation Checklist
 ### Schema
-   - Confirm what series we need to apply this to (WO 372, PROB 11)
    - Identify what information can be included in the schema
+   - Build the JSON-LD schema
 ### Keywords
    - Identify the keywords to rank for.
    - Include the target keyword in the first 100 words of the article/content. 
