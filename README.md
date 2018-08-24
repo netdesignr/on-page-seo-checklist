@@ -1,8 +1,8 @@
 ## On-page Search Engine Optimisation Checklist
-**Schema**
+### Schema
    - Confirm what series we need to apply this to (WO 372, PROB 11)
    - Identify what information can be included in the schema
-**Keywords**
+### Keywords
    - Identify the keywords to rank for.
    - Include the target keyword in the first 100 words of the article/content. 
    - Include keyword at the beginning of the article/content.
@@ -10,7 +10,7 @@
    - The keyword or synonym is in an H1 tag.
    - H2 and H3 tags.
       - Include the keyword once in an H2 or H3 subheading. 
-**Title**
+### Title
    - Google puts more weight on words found at the beginning of the title tag. 
    - Length 50 - 60 characters
    - Modifiers to the title tag
